@@ -1,5 +1,4 @@
-[https://www.linuxtechi.com/install-vmware-workstation-on-ubuntu/](https://www.linuxtechi.com/install-vmware-workstation-on-ubuntu/)  
- 
+The instructions provided in this guide are derived from [https://www.linuxtechi.com/install-vmware-workstation-on-ubuntu/](https://www.linuxtechi.com/install-vmware-workstation-on-ubuntu/). Additionally, the process of building VMware host modules (Player and Workstation) to be compatible with newer kernels has been included using the source code available at [https://github.com/mkubecek/vmware-host-modules](https://github.com/mkubecek/vmware-host-modules). It is necessary to build and reinstall VMware host modules whenever there is an update to the Linux Kernel.
 
 Download VMware Workstation PRO  
 To install VMware Workstation on Ubuntu 22.04, visit the Official [VMWare download Page](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html) and download the installation bundle as indicated below.
